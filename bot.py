@@ -6,7 +6,7 @@ import os
 from urllib.parse import urlparse
 
 # ================= CONFIG =================
-BOT_TOKEN = '8669859381:AAEXATKTVgmuOHg1Jg9hQ84YBjq9L7Z6G28'
+BOT_TOKEN = 'xyz'
 API_URL = f'https://api.telegram.org/bot{BOT_TOKEN}/'
 
 OWNER_ID = 6808803040
