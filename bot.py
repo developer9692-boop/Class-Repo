@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 from flask import Flask, request
 
 # ================= CONFIG =================
-BOT_TOKEN = '8669859381:AAEXATKTVgmuOHg1Jg9hQ84YBjq9L7Z6G28'
+BOT_TOKEN = '8669859381:AAH8DHTgRz9VfXlA0CiU3NGcRxY6DWJlH9E'
 API_URL = f'https://api.telegram.org/bot{BOT_TOKEN}/'
 
 OWNER_ID = 6808803040
